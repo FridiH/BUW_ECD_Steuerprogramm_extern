@@ -1,8 +1,8 @@
 [Mein Computer]
-Mein Computer = "127.0.0.1"
+Mein Computer = "172.22.11.1"
 
 [My Computer]
-My Computer = "132.195.109.58"
+My Computer = "10.1.1.101"
 
 [NI-cRIO-9035-01C2129B]
 NI-cRIO-9035-01C2129B = "172.22.11.2"
